@@ -1,0 +1,11 @@
+.messageContainer {
+    justify-content: center;
+}
+
+.header {
+    justify-content:space-between;
+}
+
+.header p {
+    align-self: center;
+}
